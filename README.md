@@ -32,6 +32,8 @@ My collection of dotfiles
 - (ttf-liberation)
 - (ttf-font-aweomse)
 - (lolcat)
+- imwheel
+- leafpad
 
 Themes:
 
