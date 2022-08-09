@@ -21,5 +21,4 @@ alias sx="startx"
 alias ka="killall"
 alias awe="vim /home/gavin/.config/awesome/rc.lua"
 alias sway="WLR_NO_HARDWARE_CURSORS=1 sway --unsupported-gpu"
-alias rpi='ssh gav@192.168.1.185'
 alias vim='nvim'
